@@ -1,9 +1,9 @@
 {
     "name": "九桃小说",
-    "url": "www.9txs.com",
+    "url": "www.33txs.com",
     "version": 130,
     "search": {
-        "url": "https://www.9txs.com/search.html@post->searchkey=${key}",
+        "url": "https://www.33txs.com/search.html@post->searchkey=${key}",
         "list": "ul.library > li",
         "name": "a.bookname",
         "author": "a.author",
